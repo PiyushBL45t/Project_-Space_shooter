@@ -6,3 +6,4 @@ Game functioning:
 The game functions on the pygame.Sprite.sprite class which is inherited from the min Pygae library. 
 There are three classes that inherit this, Spaceship class, Meteor class and Laser class.
 The files are used from the https://opengameart.org/content/space-shooter-redux.
+The game functions well on 60 Frames Per Second.
